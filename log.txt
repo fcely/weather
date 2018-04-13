@@ -1,0 +1,4 @@
+Name:Fernando, LocationSan Diego, Date:Thu Apr 12 2018 19:34:38 GMT-0700 (Pacific Daylight Time)
+Name:Fernando, LocationSan Diego, Date:Thu Apr 12 2018 19:34:40 GMT-0700 (Pacific Daylight Time)
+Name:Fernando, LocationSan Diego, Date:Thu Apr 12 2018 19:37:01 GMT-0700 (Pacific Daylight Time)
+Name:Sten, LocationLos Angeles, CA, Date:Thu Apr 12 2018 19:44:25 GMT-0700 (Pacific Daylight Time)
